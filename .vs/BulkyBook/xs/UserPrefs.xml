@@ -1,0 +1,80 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" GitUserInfo="UsingGIT" StartupConfiguration="{306766ED-DFA1-444E-A715-849B07E3A544}|http">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Areas/Admin/Views/Product/Upsert.cshtml">
+    <Files>
+      <File FileName="BulkyBookWeb/Areas/Admin/Controllers/ProductController.cs" />
+      <File FileName="BulkyBookWeb/wwwroot/js/product.js" Line="31" Column="14" />
+      <File FileName="BulkyBookWeb/Views/Shared/_Layout.cshtml" Line="69" Column="58" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Views/Product/Index.cshtml" Line="15" Column="1" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Views/Product/Upsert.cshtml" Line="110" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BulkyBook" expanded="True">
+            <Node name="BulkyBook.DataAccess" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+            <Node name="BulkyBook.Models" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="BulkyBookWeb" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Product" expanded="True">
+                      <Node name="Upsert.cshtml" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BulkyBook" expanded="True">
+            <Node name="BulkyBook.DataAccess" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Repository" expanded="True" />
+            </Node>
+            <Node name="BulkyBook.Models" expanded="True">
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="BulkyBookWeb" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Product" expanded="True">
+                      <Node name="Upsert.cshtml" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
