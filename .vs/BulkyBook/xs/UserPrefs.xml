@@ -2,10 +2,10 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Areas/Admin/Views/Product/Upsert.cshtml">
     <Files>
       <File FileName="BulkyBookWeb/Areas/Admin/Controllers/ProductController.cs" />
-      <File FileName="BulkyBookWeb/wwwroot/js/product.js" Line="31" Column="14" />
-      <File FileName="BulkyBookWeb/Views/Shared/_Layout.cshtml" Line="69" Column="58" />
-      <File FileName="BulkyBookWeb/Areas/Admin/Views/Product/Index.cshtml" Line="15" Column="1" />
-      <File FileName="BulkyBookWeb/Areas/Admin/Views/Product/Upsert.cshtml" Line="110" Column="17" />
+      <File FileName="BulkyBookWeb/wwwroot/js/product.js" />
+      <File FileName="BulkyBookWeb/Views/Shared/_Layout.cshtml" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Views/Product/Index.cshtml" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Views/Product/Upsert.cshtml" Line="105" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -74,7 +74,9 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
