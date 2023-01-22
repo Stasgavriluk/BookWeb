@@ -299,8 +299,6 @@
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Cors.dll
-/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
-/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.AspNetCore.DataProtection.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -387,14 +385,11 @@
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.Features.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
-/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.Hosting.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.Http.dll
-/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.Identity.Core.dll
-/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.Identity.Stores.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.Localization.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
@@ -582,6 +577,11 @@
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Azure.Core.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Azure.Identity.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Humanizer.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.AspNetCore.Razor.Language.dll
@@ -612,6 +612,9 @@
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.Identity.Client.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
@@ -632,6 +635,7 @@
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Mono.TextTemplating.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/NuGet.Common.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/NuGet.Configuration.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/NuGet.DependencyResolver.Core.dll
@@ -853,5 +857,3 @@
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/obj/Debug/net7.0/BulkyBookWeb.pdb
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/obj/Debug/net7.0/BulkyBookWeb.genruntimeconfig.cache
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/obj/Debug/net7.0/ref/BulkyBookWeb.dll
-/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
-/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll

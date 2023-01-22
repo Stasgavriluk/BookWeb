@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4xXC6lStLTou+HhLIzKu7mNIP+XBFndHVQZlMPcjOhDhMj4VWBqTbVmxDwkMKH+XJJFFsp08LSHtKul8zKq0Sg==",
+  "dgSpecHash": "pgRJSCT27T2w5+8RV4GCz04Holl+qO9mdS80nwY3kn252wbj9VYUxy6RiqBZDzQpTKLueDp3zmQfIQUFXwWw9w==",
   "success": true,
   "projectFilePath": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/BulkyBookWeb.csproj",
   "expectedPackageFiles": [
@@ -25,6 +25,7 @@
     "/Users/stanislav/.nuget/packages/microsoft.aspnetcore.http.extensions/2.2.0/microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
     "/Users/stanislav/.nuget/packages/microsoft.aspnetcore.http.features/2.2.0/microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "/Users/stanislav/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/7.0.2/microsoft.aspnetcore.identity.entityframeworkcore.7.0.2.nupkg.sha512",
+    "/Users/stanislav/.nuget/packages/microsoft.aspnetcore.identity.ui/7.0.2/microsoft.aspnetcore.identity.ui.7.0.2.nupkg.sha512",
     "/Users/stanislav/.nuget/packages/microsoft.aspnetcore.jsonpatch/2.2.0/microsoft.aspnetcore.jsonpatch.2.2.0.nupkg.sha512",
     "/Users/stanislav/.nuget/packages/microsoft.aspnetcore.mvc.abstractions/2.2.0/microsoft.aspnetcore.mvc.abstractions.2.2.0.nupkg.sha512",
     "/Users/stanislav/.nuget/packages/microsoft.aspnetcore.mvc.core/2.2.0/microsoft.aspnetcore.mvc.core.2.2.0.nupkg.sha512",
@@ -75,7 +76,8 @@
     "/Users/stanislav/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "/Users/stanislav/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "/Users/stanislav/.nuget/packages/microsoft.extensions.dependencymodel/7.0.0/microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
-    "/Users/stanislav/.nuget/packages/microsoft.extensions.fileproviders.abstractions/2.2.0/microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg.sha512",
+    "/Users/stanislav/.nuget/packages/microsoft.extensions.fileproviders.abstractions/7.0.0/microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "/Users/stanislav/.nuget/packages/microsoft.extensions.fileproviders.embedded/7.0.2/microsoft.extensions.fileproviders.embedded.7.0.2.nupkg.sha512",
     "/Users/stanislav/.nuget/packages/microsoft.extensions.hosting.abstractions/2.2.0/microsoft.extensions.hosting.abstractions.2.2.0.nupkg.sha512",
     "/Users/stanislav/.nuget/packages/microsoft.extensions.identity.core/7.0.2/microsoft.extensions.identity.core.7.0.2.nupkg.sha512",
     "/Users/stanislav/.nuget/packages/microsoft.extensions.identity.stores/7.0.2/microsoft.extensions.identity.stores.7.0.2.nupkg.sha512",
