@@ -42,7 +42,7 @@ public class CategoryController : Controller
            TempData["success"] = "Category created successfully";
            return RedirectToAction("Index");
        }
-       return View();
+       return View(obj);
    }
 
     
@@ -79,7 +79,7 @@ public class CategoryController : Controller
             TempData["success"] = "Category updated successfully";
             return RedirectToAction("Index");
         }
-        return View();
+        return View(obj);
     }
 
 

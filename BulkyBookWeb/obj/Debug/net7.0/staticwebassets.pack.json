@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets/images/products/fbd728fc-c753-443e-a142-1ece58d79954.jpeg"
     },
     {
+      "Id": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/wwwroot/js/company.js",
+      "PackagePath": "staticwebassets/js/company.js"
+    },
+    {
       "Id": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/wwwroot/js/product.js",
       "PackagePath": "staticwebassets/js/product.js"
     },

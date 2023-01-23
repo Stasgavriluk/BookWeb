@@ -1,24 +1,21 @@
 ﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" GitUserInfo="UsingGIT" StartupConfiguration="{306766ED-DFA1-444E-A715-849B07E3A544}|http">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBook.Models/ApplicationUser.cs">
     <Files>
-      <File FileName="BulkyBook.DataAccess/Data/ApplicationDbContext.cs" Line="6" Column="32" />
-      <File FileName="BulkyBookWeb/Program.cs" Line="9" Column="34" />
+      <File FileName="BulkyBook.DataAccess/Data/ApplicationDbContext.cs" />
+      <File FileName="BulkyBookWeb/Program.cs" Line="42" Column="1" />
+      <File FileName="BulkyBookWeb/Areas/Identity/Pages/Account/Register.cshtml.cs" Line="109" Column="45" />
+      <File FileName="BulkyBookWeb/Areas/Identity/Pages/Account/Login.cshtml.cs" Line="103" Column="10" />
+      <File FileName="BulkyBook.Models/ApplicationUser.cs" Line="18" Column="33" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BulkyBook" expanded="True">
-            <Node name="BulkyBook.DataAccess" expanded="True">
-              <Node name="Data" expanded="True" />
-            </Node>
+            <Node name="BulkyBook.Models" expanded="True" selected="True" />
             <Node name="BulkyBookWeb" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Areas" expanded="True">
-                <Node name="Identity" expanded="True">
-                  <Node name="Pages" expanded="True" />
-                </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
               </Node>
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -26,17 +23,11 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BulkyBook" expanded="True">
-            <Node name="BulkyBook.DataAccess" expanded="True">
-              <Node name="Data" expanded="True" />
-            </Node>
+            <Node name="BulkyBook.Models" expanded="True" selected="True" />
             <Node name="BulkyBookWeb" expanded="True">
-              <Node name="Dependencies" expanded="True" />
-              <Node name="Areas" expanded="True">
-                <Node name="Identity" expanded="True">
-                  <Node name="Pages" expanded="True" />
-                </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
               </Node>
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

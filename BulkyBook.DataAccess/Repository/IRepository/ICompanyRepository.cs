@@ -3,9 +3,9 @@ using BulkyBook.Models;
 
 namespace BulkyBook.DataAccess.Repository.IRepository
 {
-	public interface ICoverTypeRepository : IRepository<CoverType>
+	public interface ICompanyRepository : IRepository<Company>
 	{
-		void Update(CoverType obj);		
+		void Update(Company obj);		
 	}
 }
 

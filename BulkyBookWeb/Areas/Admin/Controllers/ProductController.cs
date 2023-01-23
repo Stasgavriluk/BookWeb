@@ -100,7 +100,7 @@ public class ProductController : Controller
             TempData["success"] = "Product created successfully";
             return RedirectToAction("Index");
         }
-        return View();
+        return View(obj);
     }
 
 

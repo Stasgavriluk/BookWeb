@@ -38,7 +38,7 @@ public class CoverTypeController : Controller
            TempData["success"] = "CoverType created successfully";
            return RedirectToAction("Index");
        }
-       return View();
+       return View(obj);
    }
 
     
@@ -69,7 +69,7 @@ public class CoverTypeController : Controller
             TempData["success"] = "CoverType updated successfully";
             return RedirectToAction("Index");
         }
-        return View();
+        return View(obj);
     }
 
 

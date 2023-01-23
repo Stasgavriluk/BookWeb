@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HGVltjUO1XCQlSSMg5da9jiXm2pXIer+jCGJH8e2JNU=",
+  "Hash": "sq1aISUe+udn0FT7cSUUHiD/o3RsO1kryrnwzMYkbxw=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -1307,6 +1307,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/images/products/fbd728fc-c753-443e-a142-1ece58d79954.jpeg"
+    },
+    {
+      "Identity": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/wwwroot/js/company.js",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/wwwroot/",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "js/company.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/company.js"
     },
     {
       "Identity": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/wwwroot/js/product.js",
