@@ -29,6 +29,7 @@
     <None Remove="Areas\Identity\Pages\Account\" />
     <None Remove="Areas\Identity\Pages\Account\Manage\" />
     <None Remove="Microsoft.AspNetCore.Identity.UI" />
+    <None Remove="Microsoft.EntityFrameworkCore.Sqlite" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Areas\" />
@@ -64,6 +65,9 @@
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
     <ProjectReference Include="..\BulkyBook.Models\BulkyBook.Models.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\BulkyBook.Utility\BulkyBook.Utility.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
   </ItemGroup>

@@ -857,3 +857,10 @@
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/obj/Debug/net7.0/BulkyBookWeb.pdb
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/obj/Debug/net7.0/BulkyBookWeb.genruntimeconfig.cache
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/obj/Debug/net7.0/ref/BulkyBookWeb.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.Identity.Core.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/BulkyBook.Utility.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/BulkyBook.Utility.pdb
