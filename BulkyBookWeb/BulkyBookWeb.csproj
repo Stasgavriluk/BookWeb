@@ -30,6 +30,7 @@
     <None Remove="Areas\Identity\Pages\Account\Manage\" />
     <None Remove="Microsoft.AspNetCore.Identity.UI" />
     <None Remove="Microsoft.EntityFrameworkCore.Sqlite" />
+    <None Remove="Areas\Customer\Views\Cart\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Areas\" />
@@ -48,6 +49,7 @@
     <Folder Include="Areas\Identity\Pages\" />
     <Folder Include="Areas\Identity\Pages\Account\" />
     <Folder Include="Areas\Identity\Pages\Account\Manage\" />
+    <Folder Include="Areas\Customer\Views\Cart\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.2" />

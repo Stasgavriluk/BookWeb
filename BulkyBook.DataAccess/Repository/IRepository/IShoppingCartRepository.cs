@@ -3,9 +3,11 @@ using BulkyBook.Models;
 
 namespace BulkyBook.DataAccess.Repository.IRepository
 {
-	public interface ICategoryRepository : IRepository<Category>
+	public interface IShoppingCartRepository : IRepository<ShoppingCart>
 	{
-		void Update(Category obj);		
-	}
+		int IncrementCount(ShoppingCart shoppingCart, int count);
+
+        int DecrementCount(ShoppingCart shoppingCart, int count);
+    }
 }
 

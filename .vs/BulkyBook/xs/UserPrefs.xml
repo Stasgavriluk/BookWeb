@@ -1,46 +1,39 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{306766ED-DFA1-444E-A715-849B07E3A544}|http" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+﻿<Properties StartupConfiguration="{306766ED-DFA1-444E-A715-849B07E3A544}|http" NuGet.AddPackagesDialog.IncludePrerelease="True" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Areas/Identity/Pages/Account/Login.cshtml.cs">
     <Files>
-      <File FileName="BulkyBook.DataAccess/Data/ApplicationDbContext.cs" Line="1" Column="1" IsPinned="True" />
-      <File FileName="BulkyBookWeb/Areas/Identity/Pages/Account/Register.cshtml.cs" Line="104" Column="1" />
-      <File FileName="BulkyBook.DataAccess/Repository/CoverTypeRepository.cs" Line="1" Column="1" />
-      <File FileName="BulkyBook.DataAccess/Repository/IRepository/IUnitOfWork.cs" Line="1" Column="1" />
-      <File FileName="BulkyBook.DataAccess/Repository/UnitOfWork.cs" Line="1" Column="1" />
-      <File FileName="BulkyBookWeb/Areas/Admin/Controllers/CompanyController.cs" Line="7" Column="1" />
-      <File FileName="BulkyBook.Utility/SD.cs" Line="9" Column="56" />
-      <File FileName="BulkyBook.Utility/EmailSender.cs" Line="10" Column="39" />
-      <File FileName="BulkyBookWeb/Program.cs" Line="23" Column="40" />
+      <File FileName="BulkyBookWeb/Areas/Identity/Pages/Account/Register.cshtml" Line="1" Column="1" />
+      <File FileName="BulkyBookWeb/Areas/Identity/Pages/Account/Register.cshtml.cs" Line="1" Column="1" />
+      <File FileName="BulkyBookWeb/Areas/Identity/Pages/Account/Login.cshtml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BulkyBook" expanded="True">
-            <Node name="BulkyBook.Utility" expanded="True" />
+            <Node name="BulkyBook.DataAccess" expanded="True" />
             <Node name="BulkyBookWeb" expanded="True">
               <Node name="Areas" expanded="True">
                 <Node name="Identity" expanded="True">
                   <Node name="Pages" expanded="True">
                     <Node name="Account" expanded="True">
+                      <Node name="Login.cshtml" expanded="True">
+                        <Node name="Login.cshtml.cs" selected="True" />
+                      </Node>
                       <Node name="Register.cshtml" expanded="True" />
                     </Node>
                   </Node>
                 </Node>
               </Node>
-              <Node name="wwwroot" expanded="True">
-                <Node name="js" expanded="True" />
-              </Node>
-              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
