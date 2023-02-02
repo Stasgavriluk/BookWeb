@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "sq1aISUe+udn0FT7cSUUHiD/o3RsO1kryrnwzMYkbxw=",
+  "Hash": "wm/zhUTJeBeYPe4k9/RKHrzD18BjlfLU51305CrRe9o=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -1071,6 +1071,23 @@
       "OriginalItemSpec": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/obj/Debug/net7.0/scopedcss/projectbundle/BulkyBookWeb.bundle.scp.css"
     },
     {
+      "Identity": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/wwwroot/.DS_Store",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/wwwroot/",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": ".DS_Store",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/.DS_Store"
+    },
+    {
       "Identity": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/wwwroot/css/bootswatchTheme.css",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
@@ -1120,6 +1137,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/wwwroot/images/lawn_leaf.jpg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/wwwroot/",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/lawn_leaf.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/lawn_leaf.jpg"
     },
     {
       "Identity": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/wwwroot/images/products/0f4b12ea-0d23-48e1-8eb0-64deba1254ed.jpeg",

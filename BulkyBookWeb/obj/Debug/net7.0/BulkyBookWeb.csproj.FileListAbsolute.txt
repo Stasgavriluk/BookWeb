@@ -864,3 +864,4 @@
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/refs/Microsoft.Extensions.Identity.Stores.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/BulkyBook.Utility.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/BulkyBook.Utility.pdb
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Stripe.net.dll

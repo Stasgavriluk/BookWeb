@@ -1,28 +1,24 @@
 ﻿<Properties StartupConfiguration="{306766ED-DFA1-444E-A715-849B07E3A544}|http" NuGet.AddPackagesDialog.IncludePrerelease="True" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Areas/Identity/Pages/Account/Login.cshtml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Areas/Customer/Views/Cart/OrderConfirmation.cshtml">
     <Files>
-      <File FileName="BulkyBookWeb/Areas/Identity/Pages/Account/Register.cshtml" Line="1" Column="1" />
-      <File FileName="BulkyBookWeb/Areas/Identity/Pages/Account/Register.cshtml.cs" Line="1" Column="1" />
-      <File FileName="BulkyBookWeb/Areas/Identity/Pages/Account/Login.cshtml.cs" Line="1" Column="1" />
+      <File FileName="BulkyBookWeb/Areas/Customer/Controllers/CartController.cs" Line="125" Column="1" />
+      <File FileName="BulkyBook.DataAccess/Repository/OrderHeaderRepository.cs" Line="35" Column="1" />
+      <File FileName="BulkyBook.DataAccess/Repository/IRepository/IOrderHeaderRepository.cs" />
+      <File FileName="BulkyBookWeb/Areas/Customer/Views/Cart/OrderConfirmation.cshtml" Line="3" Column="27" />
+      <File FileName="BulkyBook.DataAccess/Repository/UnitOfWork.cs" Line="40" Column="1" />
+      <File FileName="BulkyBook.DataAccess/Repository/OrderDetailsRepository.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BulkyBook" expanded="True">
-            <Node name="BulkyBook.DataAccess" expanded="True" />
-            <Node name="BulkyBookWeb" expanded="True">
-              <Node name="Areas" expanded="True">
-                <Node name="Identity" expanded="True">
-                  <Node name="Pages" expanded="True">
-                    <Node name="Account" expanded="True">
-                      <Node name="Login.cshtml" expanded="True">
-                        <Node name="Login.cshtml.cs" selected="True" />
-                      </Node>
-                      <Node name="Register.cshtml" expanded="True" />
+            <Node name="BulkyBookWeb">
+              <Node name="Areas">
+                <Node name="Customer">
+                  <Node name="Views">
+                    <Node name="Cart">
+                      <Node name="OrderConfirmation.cshtml" selected="True" />
                     </Node>
                   </Node>
                 </Node>
@@ -33,6 +29,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

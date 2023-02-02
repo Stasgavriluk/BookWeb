@@ -3,9 +3,9 @@ using BulkyBook.Models;
 
 namespace BulkyBook.DataAccess.Repository.IRepository
 {
-	public interface IOrderDetailRepository : IRepository<OrderDetail>
+	public interface IOrderDetailsRepository : IRepository<OrderDetails>
 	{
-		void Update(OrderDetail obj);		
+		void Update(OrderDetails obj);		
 	}
 }
 

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/BulkyBookWeb.bundle.scp.css"
     },
     {
+      "Id": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/wwwroot/css/bootswatchTheme.css",
       "PackagePath": "staticwebassets/css/bootswatchTheme.css"
     },
@@ -15,6 +19,10 @@
     {
       "Id": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/wwwroot/images/lawn_leaf.jpg",
+      "PackagePath": "staticwebassets/images/lawn_leaf.jpg"
     },
     {
       "Id": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/wwwroot/images/products/0f4b12ea-0d23-48e1-8eb0-64deba1254ed.jpeg",
