@@ -1,40 +1,39 @@
 ﻿<Properties StartupConfiguration="{306766ED-DFA1-444E-A715-849B07E3A544}|http" NuGet.AddPackagesDialog.IncludePrerelease="True" GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Areas/Admin/Controllers/OrderController.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Areas/Admin/Views/Order/Details.cshtml">
     <Files>
-      <File FileName="BulkyBookWeb/Areas/Customer/Controllers/CartController.cs" Line="175" Column="14" />
-      <File FileName="BulkyBookWeb/Areas/Admin/Controllers/OrderController.cs" Line="56" Column="53" />
-      <File FileName="BulkyBookWeb/Areas/Admin/Views/Order/Index.cshtml" Line="55" Column="21" />
-      <File FileName="BulkyBook.Models/ViewModels/OrderVM.cs" Line="11" Column="1" />
-      <File FileName="BulkyBookWeb/Areas/Admin/Controllers/ProductController.cs" Line="114" Column="6" />
-      <File FileName="BulkyBookWeb/wwwroot/js/order.js" Line="31" Column="58" />
-      <File FileName="BulkyBookWeb/Views/Shared/_Layout.cshtml" Line="27" Column="30" />
-      <File FileName="BulkyBookWeb/wwwroot/js/company.js" Line="1" Column="1" />
-      <File FileName="BulkyBookWeb/Areas/Admin/Views/Order/Details.cshtml" Line="192" Column="64" />
-      <File FileName="BulkyBook.DataAccess/Repository/OrderHeaderRepository.cs" Line="37" Column="52" />
-      <File FileName="BulkyBook.DataAccess/Repository/Repository.cs" Line="54" Column="46" />
-      <File FileName="BulkyBook.DataAccess/Repository/IRepository/IRepository.cs" Line="16" Column="2" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Controllers/OrderController.cs" Line="66" Column="14" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Views/Order/Details.cshtml" Line="254" Column="34" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Views/Product/Upsert.cshtml" Line="124" Column="14" />
+      <File FileName="BulkyBookWeb/Areas/Customer/Controllers/CartController.cs" Line="199" Column="1" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Views/Order/PaymentConfirmation.cshtml" Line="16" Column="1" />
+      <File FileName="BulkyBookWeb/Areas/Customer/Views/Cart/OrderConfirmation.cshtml" Line="13" Column="7" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BulkyBook" expanded="True">
-            <Node name="BulkyBook.DataAccess" expanded="True">
-              <Node name="Repository" expanded="True">
-                <Node name="IRepository" expanded="True" />
-              </Node>
-            </Node>
             <Node name="BulkyBookWeb" expanded="True">
               <Node name="Areas" expanded="True">
                 <Node name="Admin" expanded="True">
-                  <Node name="Controllers" expanded="True" />
                   <Node name="Views" expanded="True">
-                    <Node name="Order" expanded="True" />
+                    <Node name="Order" expanded="True">
+                      <Node name="PaymentConfirmation.cshtml" selected="True" />
+                    </Node>
                     <Node name="Product" expanded="True" />
                   </Node>
                 </Node>
                 <Node name="Customer" expanded="True">
                   <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True">
+                    <Node name="Cart" expanded="True" />
+                  </Node>
                 </Node>
               </Node>
               <Node name="Views" expanded="True">
@@ -49,10 +48,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
