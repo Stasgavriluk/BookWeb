@@ -1,9 +1,4 @@
-﻿<Properties StartupConfiguration="{306766ED-DFA1-444E-A715-849B07E3A544}|http" NuGet.AddPackagesDialog.IncludePrerelease="True" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{306766ED-DFA1-444E-A715-849B07E3A544}|http" NuGet.AddPackagesDialog.IncludePrerelease="True">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/appsettings.json">
@@ -13,11 +8,14 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BulkyBook" expanded="True">
-            <Node name="BulkyBookWeb" selected="True" />
-          </Node>
+          <Node name="BulkyBook" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
