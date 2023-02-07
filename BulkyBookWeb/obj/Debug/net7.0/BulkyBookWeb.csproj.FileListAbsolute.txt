@@ -865,3 +865,7 @@
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/BulkyBook.Utility.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/BulkyBook.Utility.pdb
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Stripe.net.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/MailKit.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/MimeKit.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBookWeb/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.Facebook.dll

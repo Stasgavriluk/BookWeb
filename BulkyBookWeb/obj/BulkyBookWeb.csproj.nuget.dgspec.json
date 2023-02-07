@@ -29,6 +29,9 @@
             "projectReferences": {
               "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/BulkyBook.Models.csproj": {
                 "projectPath": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/BulkyBook.Models.csproj"
+              },
+              "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Utility/BulkyBook.Utility.csproj": {
+                "projectPath": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Utility/BulkyBook.Utility.csproj"
               }
             }
           }
@@ -172,7 +175,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/BulkyBook.Models.csproj": {
+                "projectPath": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/BulkyBook.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -185,9 +192,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[7.0.2, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[3.5.0, )"
             }
           },
           "imports": [
@@ -255,6 +270,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Facebook": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[7.0.2, )"

@@ -10,3 +10,6 @@
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Utility/obj/Debug/net7.0/refint/BulkyBook.Utility.dll
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Utility/obj/Debug/net7.0/BulkyBook.Utility.pdb
 /Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Utility/obj/Debug/net7.0/ref/BulkyBook.Utility.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Utility/bin/Debug/net7.0/BulkyBook.Models.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Utility/bin/Debug/net7.0/BulkyBook.Models.pdb
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Utility/obj/Debug/net7.0/BulkyBook.Utility.csproj.CopyComplete

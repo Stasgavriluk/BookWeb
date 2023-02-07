@@ -1,0 +1,12 @@
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/bin/Release/net7.0/BulkyBook.Models.deps.json
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/bin/Release/net7.0/BulkyBook.Models.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/bin/Release/net7.0/BulkyBook.Models.pdb
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/obj/Release/net7.0/BulkyBook.Models.csproj.AssemblyReference.cache
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/obj/Release/net7.0/BulkyBook.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/obj/Release/net7.0/BulkyBook.Models.AssemblyInfoInputs.cache
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/obj/Release/net7.0/BulkyBook.Models.AssemblyInfo.cs
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/obj/Release/net7.0/BulkyBook.Models.csproj.CoreCompileInputs.cache
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/obj/Release/net7.0/BulkyBook.Models.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/obj/Release/net7.0/refint/BulkyBook.Models.dll
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/obj/Release/net7.0/BulkyBook.Models.pdb
+/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/obj/Release/net7.0/ref/BulkyBook.Models.dll

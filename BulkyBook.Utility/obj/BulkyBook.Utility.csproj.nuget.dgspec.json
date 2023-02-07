@@ -4,14 +4,14 @@
     "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Utility/BulkyBook.Utility.csproj": {}
   },
   "projects": {
-    "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Utility/BulkyBook.Utility.csproj": {
+    "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/BulkyBook.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Utility/BulkyBook.Utility.csproj",
-        "projectName": "BulkyBook.Utility",
-        "projectPath": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Utility/BulkyBook.Utility.csproj",
+        "projectUniqueName": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/BulkyBook.Models.csproj",
+        "projectName": "BulkyBook.Models",
+        "projectPath": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/BulkyBook.Models.csproj",
         "packagesPath": "/Users/stanislav/.nuget/packages/",
-        "outputPath": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Utility/obj/",
+        "outputPath": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/stanislav/.nuget/NuGet/NuGet.Config"
@@ -39,9 +39,85 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Utility/BulkyBook.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Utility/BulkyBook.Utility.csproj",
+        "projectName": "BulkyBook.Utility",
+        "projectPath": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Utility/BulkyBook.Utility.csproj",
+        "packagesPath": "/Users/stanislav/.nuget/packages/",
+        "outputPath": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Utility/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/stanislav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/BulkyBook.Models.csproj": {
+                "projectPath": "/Users/stanislav/Pet Projects/BulkyBook/BulkyBook.Models/BulkyBook.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[7.0.2, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[3.5.0, )"
             }
           },
           "imports": [
