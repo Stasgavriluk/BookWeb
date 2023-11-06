@@ -1,21 +1,42 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{306766ED-DFA1-444E-A715-849B07E3A544}|http" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+﻿<Properties GitUserInfo="UsingGIT" NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{306766ED-DFA1-444E-A715-849B07E3A544}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/appsettings.json">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBook.DataAccess/Repository/IRepository/IUnitOfWork.cs">
     <Files>
-      <File FileName="BulkyBookWeb/appsettings.json" Line="11" Column="266" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Controllers/CategoryController.cs" Line="78" Column="32" />
+      <File FileName="BulkyBook.DataAccess/Repository/UnitOfWork.cs" />
+      <File FileName="BulkyBook.DataAccess/Repository/IRepository/ICategoryRepository.cs" />
+      <File FileName="BulkyBook.DataAccess/Repository/IRepository/IUnitOfWork.cs" Line="6" Column="11" />
+      <File FileName="BulkyBook.DataAccess/Repository/CategoryRepository.cs" Line="12" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="BulkyBook" expanded="True" />
+          <Node name="BulkyBook" expanded="True">
+            <Node name="BulkyBook.DataAccess" expanded="True">
+              <Node name="Repository" expanded="True">
+                <Node name="IRepository" expanded="True">
+                  <Node name="IUnitOfWork.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="BulkyBook.Models" expanded="True" />
+            <Node name="BulkyBookWeb" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                </Node>
+                <Node name="Customer" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
