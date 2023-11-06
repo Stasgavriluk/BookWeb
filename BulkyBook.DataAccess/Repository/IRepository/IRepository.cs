@@ -1,9 +1,8 @@
-﻿using System;
-using System.Linq.Expressions;
+﻿using System.Linq.Expressions;
 
 namespace BulkyBook.DataAccess.Repository.IRepository
 {
-	public interface IRepository<T> where T : class
+    public interface IRepository<T> where T : class
 	{
 		//T - Category
 		T GetFirstOrDefault(Expression<Func<T, bool>> filter, string? includeProperties = null, bool tracked = true);

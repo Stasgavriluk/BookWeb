@@ -1,10 +1,7 @@
-﻿using System;
-using BulkyBook.DataAccess.Repository.IRepository;
-using BulkyBook.Models;
+﻿using BulkyBook.Models;
 using BulkyBook.Utility;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging;
 
 namespace BulkyBook.DataAccess.DbInitializer
 {

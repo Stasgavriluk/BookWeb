@@ -1,7 +1,6 @@
-﻿using System;
-namespace BulkyBook.Utility
+﻿namespace BulkyBook.Utility
 {
-	public static class SD
+    public static class SD
 	{
 		public const string Role_User_Indi = "Individual";
 		public const string Role_User_Camp = "Company";

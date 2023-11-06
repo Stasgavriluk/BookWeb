@@ -1,6 +1,4 @@
-﻿using System;
-using System.Linq.Expressions;
-using BulkyBook.DataAccess.Repository.IRepository;
+﻿using BulkyBook.DataAccess.Repository.IRepository;
 using BulkyBook.Models;
 
 namespace BulkyBook.DataAccess.Repository

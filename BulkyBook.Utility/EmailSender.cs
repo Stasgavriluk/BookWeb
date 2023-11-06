@@ -1,7 +1,4 @@
-﻿using System;
-using MailKit.Net.Smtp;
-using Microsoft.AspNetCore.Identity.UI.Services;
-using MimeKit;
+﻿using Microsoft.AspNetCore.Identity.UI.Services;
 
 namespace BulkyBook.Utility
 {

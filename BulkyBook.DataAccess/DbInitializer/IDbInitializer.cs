@@ -1,7 +1,6 @@
-﻿using System;
-namespace BulkyBook.DataAccess.DbInitializer
+﻿namespace BulkyBook.DataAccess.DbInitializer
 {
-	public interface IDbInitializer
+    public interface IDbInitializer
 	{
 		void Initialize();
 	}

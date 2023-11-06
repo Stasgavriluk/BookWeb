@@ -1,7 +1,6 @@
-﻿using System;
-namespace BulkyBook.DataAccess.Repository.IRepository
+﻿namespace BulkyBook.DataAccess.Repository.IRepository
 {
-	public interface IUnitOfWork
+    public interface IUnitOfWork
 	{
 		ICategoryRepository Category { get; }
 
