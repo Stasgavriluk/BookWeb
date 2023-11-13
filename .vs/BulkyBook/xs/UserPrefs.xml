@@ -1,42 +1,29 @@
-﻿<Properties GitUserInfo="UsingGIT" NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{306766ED-DFA1-444E-A715-849B07E3A544}|https">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBook.DataAccess/Repository/IRepository/IUnitOfWork.cs">
+﻿<Properties StartupConfiguration="{306766ED-DFA1-444E-A715-849B07E3A544}|https" NuGet.AddPackagesDialog.IncludePrerelease="True" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BulkyBookWeb/Program.cs">
     <Files>
-      <File FileName="BulkyBookWeb/Areas/Admin/Controllers/CategoryController.cs" Line="78" Column="32" />
-      <File FileName="BulkyBook.DataAccess/Repository/UnitOfWork.cs" />
-      <File FileName="BulkyBook.DataAccess/Repository/IRepository/ICategoryRepository.cs" />
-      <File FileName="BulkyBook.DataAccess/Repository/IRepository/IUnitOfWork.cs" Line="6" Column="11" />
-      <File FileName="BulkyBook.DataAccess/Repository/CategoryRepository.cs" Line="12" Column="10" />
+      <File FileName="BulkyBookWeb/Areas/Customer/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Controllers/CategoryController.cs" Line="1" Column="1" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Controllers/CompanyController.cs" Line="1" Column="1" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Controllers/OrderController.cs" Line="1" Column="1" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Controllers/CoverTypeController.cs" Line="1" Column="1" />
+      <File FileName="BulkyBookWeb/Areas/Admin/Controllers/ProductController.cs" Line="1" Column="1" />
+      <File FileName="BulkyBookWeb/ViewComponents/ShoppingCartViewComponent.cs" Line="1" Column="1" />
+      <File FileName="BulkyBookWeb/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="BulkyBookWeb/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="BulkyBookWeb/appsettings.json" Line="1" Column="1" />
+      <File FileName="BulkyBookWeb/Program.cs" Line="8" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="BulkyBook" expanded="True">
-            <Node name="BulkyBook.DataAccess" expanded="True">
-              <Node name="Repository" expanded="True">
-                <Node name="IRepository" expanded="True">
-                  <Node name="IUnitOfWork.cs" selected="True" />
-                </Node>
-              </Node>
-            </Node>
-            <Node name="BulkyBook.Models" expanded="True" />
-            <Node name="BulkyBookWeb" expanded="True">
-              <Node name="Areas" expanded="True">
-                <Node name="Admin" expanded="True">
-                  <Node name="Controllers" expanded="True" />
-                </Node>
-                <Node name="Customer" expanded="True" />
-              </Node>
-            </Node>
-          </Node>
-        </State>
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BulkyBookWeb PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
